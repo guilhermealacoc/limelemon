@@ -1,2 +1,0 @@
-# limelemon
- API em desenvolvimento.
